@@ -1,2 +1,27 @@
-# Ominifood
-Our Ai Algorithm Will Provided Good Food. By Choosing Customer Selectly Diet Plan. By Choosing Monthly or Yearly Subscription  We will Delivery Our Food Components. By Daily 2 Section Food Will  Be Provided. These Are Prepared By  Very Experienced Chef . (THIS WEBSITE IS  DEVELOPED BY USING CSS AND HTML )  
+🍽 OmniFood Responsive Website
+
+OmniFood is a modern and responsive food delivery landing page built using HTML5 and CSS3. The website showcases a food service platform with a clean UI and fully responsive layout that works across desktop, tablet, and mobile devices.
+
+🚀 Features
+
+📱 Fully responsive design
+
+🎨 Modern and clean UI layout
+
+🍔 Food service landing page design
+
+📦 Organized sections (Hero, Features, Meals, Pricing, Contact)
+
+⚡ Fast loading static website
+
+💻 Built using only HTML5 and CSS3
+
+🛠 Tech Stack
+
+HTML5
+
+CSS3
+
+Responsive Web Design
+
+Flexbox / Grid Layout
